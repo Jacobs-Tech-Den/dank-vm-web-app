@@ -25,3 +25,5 @@ To build the web app, follow these steps.
 
 # License
 Collab VM Web App, as well as Collab VM Admin Web App and Collab VM Server are licensed under the [Apache License](https://www.apache.org/licenses/LICENSE-2.0).
+
+needed for building
